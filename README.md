@@ -1,2 +1,2 @@
 # Goopet
-ShefJam X Poject
+ShefJam X Project
